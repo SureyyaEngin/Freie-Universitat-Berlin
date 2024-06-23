@@ -4,7 +4,7 @@
 
 [Deep Learning for biomedical app]()
 
-[Künstliche Intelligenz]()
+[Künstliche Intelligenz](https://github.com/SureyyaEngin/Freie-Universitat-Berlin/tree/main/K%C3%BCnstliche%20Intelligenz)
 
 [Datenbanksysteme]()
 
